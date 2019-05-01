@@ -1,8 +1,8 @@
 {
   "name": "v4",
-  "description": "Personal Website V4",
-  "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "description": "Personal Website V2",
+  "version": "2.0.0",
+  "author": "Alyssa Durante <adurante95@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/lyss-js/personal-portfolio-v2.git"
